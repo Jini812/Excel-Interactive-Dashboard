@@ -26,18 +26,18 @@ Below is an interactive dashboard providing insights into annual sales performan
 
 
 ## Process
-1.Data Cleaning & Validation – Identified and rectified missing values and inconsistencies.
-2.Data Formatting – Ensured uniform data structure and type consistency.
-3.Pivot Table Creation – Designed pivot tables to address key KPIs.
-4.Dashboard Development – Integrated pivot tables into a dynamic dashboard with slicers for user-driven insights.
+* Data Cleaning & Validation – Identified and rectified missing values and inconsistencies.
+* Data Formatting – Ensured uniform data structure and type consistency.
+* Pivot Table Creation – Designed pivot tables to address key KPIs.
+* Dashboard Development – Integrated pivot tables into a dynamic dashboard with slicers for user-driven insights.
 
 
 ## Project Insight
-•	Women customers are more likely to buy products compared to men (~65%).
-•	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-•	The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-•	The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-•	More than 90% of the products delivered
+* Women customers are more likely to buy products compared to men (~65%).
+*	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+*	The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+*	The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+*	More than 90% of the products delivered
 
 ## Final Conclusion:
 The analysis reveals that women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh are the key customer segment. A targeted marketing strategy focusing on digital promotions, personalized discounts, and e-commerce optimization can further boost sales in these regions. 
