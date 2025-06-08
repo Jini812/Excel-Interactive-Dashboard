@@ -7,16 +7,16 @@ This project analyzes the 2022 annual sales report for Vrinda Store to help the 
 The dataset can be accessed : <a href="https://github.com/Jini812/Excel-Interactive-Dashboard/blob/main/Vrinda%20Store%20Raw%20Data.xlsx">Vrinda Store Dataset</a>
 
 ## KPI’s
-1.Sales & Orders Comparison – Single-chart visualization of total orders vs.Sales.
-2.Peak Sales Month – Identify the highest sales and order month.
-3.Customer Demographics – Gender-based purchasing behavior.
-4.Order Status Overview – Breakdown of different order statuses.
-5.Top 5 Sales-Contributing States – Geographic sales distribution.
-6.Age-Gender Relationship – Correlation of purchases across age brackets.
-7.Sales Channels – Contribution of platforms like Amazon, Flipkart, Myntra.
-8.Top Selling Category – Most purchased product categories.
-9.Order Fulfillment – Percentage of total orders successfully delivered.
-10.Dashboard Interactivity – Dynamic filtering for insights.
+1.Sales & Orders Comparison: Single-chart visualization of total orders vs.Sales.
+2.Peak Sales Month: Identify the highest sales and order month.
+3.Customer Demographics: Gender-based purchasing behavior.
+4.Order Status Overview: Breakdown of different order statuses.
+5.Top 5 Sales-Contributing States: Geographic sales distribution.
+6.Age-Gender Relationship: Correlation of purchases across age brackets.
+7.Sales Channels: Contribution of platforms like Amazon, Flipkart, Myntra.
+8.Top Selling Category: Most purchased product categories.
+9.Order Fulfillment: Percentage of total orders successfully delivered.
+10.Dashboard Interactivity: Dynamic filtering for insights.
 <a href="https://github.com/Jini812/Excel-Interactive-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">View Dashboard</a>
 
 ## Dashboard
