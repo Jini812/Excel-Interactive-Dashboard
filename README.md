@@ -2,8 +2,9 @@
 
 ## Project Objective
 This project analyzes the 2022 annual sales report for Vrinda Store to help the owner better understand customer behavior and optimize future sales strategies.
+
 ##Dataset used
-The dataset can be accessed : <a href=”https://github.com/Jini812/Excel-Interactive-Dashboard/blob/main/Vrinda%20Store%20Raw%20Data.xlsx“>Vrinda Store Dataset</a>
+The dataset can be accessed : <a href="https://github.com/Jini812/Excel-Interactive-Dashboard/blob/main/Vrinda%20Store%20Raw%20Data.xlsx">Vrinda Store Dataset</a>
 
 ## KPI’s
 1.Sales & Orders Comparison – Single-chart visualization of total orders vs.Sales.
@@ -20,6 +21,7 @@ The dataset can be accessed : <a href=”https://github.com/Jini812/Excel-Intera
 
 ## Dashboard
 Below is an interactive dashboard providing insights into annual sales performance.
+
 <img width="659" alt="image" src="https://github.com/user-attachments/assets/1bed465e-a154-4725-93ee-7eb4d3cc50b7" />
 
 
